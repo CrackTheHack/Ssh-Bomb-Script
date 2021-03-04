@@ -4,7 +4,7 @@
 
 #Version: 2.2
 
-#This Tool is Created for Penetration To My Instituate Network.
+#This Tool is Created for Penetration Testing To My Instituate Network.
 
     			*!___CONFIGRATION___!*
 
