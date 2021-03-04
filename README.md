@@ -1,8 +1,6 @@
 #Author : Utkarsh Singh
-
 #Copyright (C) 2020
-
-#SsH-BomB
+#Version: 2.0
 
 #This Tool is Created for Penetration To My Instituate Network.
 
@@ -16,7 +14,7 @@
 
 3. ./requerments.sh :- To Install Requirement's
 
-4. ./Ssh_Boom.sh :- To Run Tool
+4. ./ssh_bomb.sh :- To Run Tool
 
 		      *!___That's It Enjoy___!*
 		      
