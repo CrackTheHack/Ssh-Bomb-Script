@@ -2,7 +2,7 @@
 
 #Copyright (C) 2021
 
-#Version: 2.0
+#Version: 2.2
 
 #This Tool is Created for Penetration To My Instituate Network.
 
