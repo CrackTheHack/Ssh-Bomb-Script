@@ -38,7 +38,6 @@ do
 	echo ""
 	((b++))
 done
-echo ""
 exit;;
 [Nn]* )
 exit;;
