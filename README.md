@@ -6,8 +6,6 @@
 
 #This Tool is Created for Penetration To My Instituate Network.
 
-#If You Want To Use This Tool Just Open Ssh_Boom.sh via (vi or vim editor) And Change Ip-Address And Command 'reboot' To Any Command.
-
     			*!___CONFIGRATION___!*
 
 1. cd Ssh_Bomd :- To Select Directory
